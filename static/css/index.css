@@ -39,7 +39,7 @@ body {
 }
 
 .container {
-  max-width: 1600px !important;  /* Bootstrap 默认最大 1140px，用 !important 确保覆盖 */
+  max-width: 1920px !important;  /* Bootstrap 默认最大 1140px，用 !important 确保覆盖 */
 }
 
 /* Modern Button Styles */
